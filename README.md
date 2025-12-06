@@ -10,4 +10,4 @@ add your own single-file game?
 
 - Keep everything in one `.html` file
 - Embed assets as data URIs or generate them with code
-- Make a pull request...
+- [Make a pull request...](https://github.com/beak2825/one-file-games/pulls)
